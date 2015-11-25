@@ -23,8 +23,8 @@ It gives each client their own account that provides a Dashboard for them to mon
 
 ###Client Area Features
 
-* Private Message System
 * Event Calendar
+* Private Message System
 * Create new discussions per project
 * Reply to discussions
 * Upload and comment on files per project
