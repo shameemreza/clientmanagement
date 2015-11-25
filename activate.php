@@ -95,7 +95,7 @@
 						<div class="col-md-2"></div>
 						<div class="col-md-8">
 							<div class="loginCont">
-								<p class="logo"><img alt="clientmanage" src="images/login_logo.png" /></p>
+								<p class="logo"><img alt="clientmanagement" src="images/login_logo.png" /></p>
 								<div class='login'>
 									<?php
 										// The account has been activated - show a Signin button
